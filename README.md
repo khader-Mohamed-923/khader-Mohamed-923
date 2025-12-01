@@ -193,22 +193,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-<picture>
-  <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=**[YOUR_USERNAME_HERE]**&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=**[YOUR_USERNAME_HERE]**&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=**[YOUR_USERNAME_HERE]**&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=**[YOUR_USERNAME_HERE]**&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</picture>
-<br/>
-<picture>
-  <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=**[YOUR_USERNAME_HERE]**&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**[YOUR_USERNAME_HERE]**&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</picture>
-</div>
 
 ---
 
